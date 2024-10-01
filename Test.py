@@ -6,7 +6,6 @@ from model import *
 # y_pred = svm_clf.predict(X_test)
 # print(y_pred)
 
-
 # Test with sample reviews
 sample_reviews = [
     "This movie was fantastic! I loved every moment of it.",
